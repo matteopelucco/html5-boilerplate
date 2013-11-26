@@ -8,7 +8,7 @@ Features:
 - jQuery 1.10.1
 
 Guidelines
-- css/style.css
+# css/style.css #
 Contiene gli stili del sito, raggruppati per categorie. Le regole sono raggruppate per tipologia. I nomi delle regole devono essere in inglese. Le regole browser-specific sono allineate a destra, per una maggior leggibilità
 
 	div.example2 {
@@ -19,18 +19,18 @@ Contiene gli stili del sito, raggruppati per categorie. Le regole sono raggruppa
 		/* Other */
 	}
 
-- css/style-responsive.css
+# css/style-responsive.css #
 Contiene gli stili responsive / media queries del sito, raggruppati per categorie. 
 Valgono le stesse regole stilistiche del form di base. Le media queries sono ordinate in ordine inverso (mobile-first)
 
-- fonts
+# fonts #
 Contiene i webfonts. 4 file per ogni font (.eot, .svg, .ttf, .woff)
 
-- js/vendor
+# js/vendor #
 Contiene tutti i javascript presi dall'esterno (bootstrap, jquery, ..). File originali, non modificati.
 
-- js/script.js
+# js/script.js #
 Script ad-hoc del progetto
 
-- plugins
+# plugins #
 Contiene i plugin richiesti dal sito, file originali, non modificati
