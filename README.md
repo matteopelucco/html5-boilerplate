@@ -11,13 +11,13 @@ Guidelines
 - css/style.css
 Contiene gli stili del sito, raggruppati per categorie. Le regole sono raggruppate per tipologia. I nomi delle regole devono essere in inglese. Le regole browser-specific sono allineate a destra, per una maggior leggibilità
 
-div.example2 {
-  /* Positioning */
-  /* Display & Box Model */
-  /* Color */
-  /* Text */
-  /* Other */
-}
+	div.example2 {
+		/* Positioning */
+		/* Display & Box Model */
+		/* Color */
+		/* Text */
+		/* Other */
+	}
 
 - css/style-responsive.css
 Contiene gli stili responsive / media queries del sito, raggruppati per categorie. 
