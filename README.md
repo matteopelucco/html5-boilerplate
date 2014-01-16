@@ -1,6 +1,13 @@
 ================================================
-tinext-html5-boilerplate - v.0.0.1 / 26.11.2013
+tinext-html5-boilerplate - v.0.0.2 / 16.01.2013
 ================================================
+
+Change log
+- v.0.0.2
+added missing files
+
+- v.0.0.1
+initial setup to git
 
 Features: 
 - Twitter Bootstrap 3.0.0
