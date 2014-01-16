@@ -33,4 +33,4 @@ Contiene tutti i javascript presi dall'esterno (bootstrap, jquery, ..). File ori
 Script ad-hoc del progetto
 
 # plugins #
-Contiene i plugin richiesti dal sito, file originali, non modificati
+Contiene i plugin richiesti dal sito, file originali, non modificati 
